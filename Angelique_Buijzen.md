@@ -1,3 +1,9 @@
 [link naar portfolio](https://github.com/abuijzen/2imd-webtech3-portfolio)
 
-[link naar lab2](https://github.com/abuijzen/2imd-webtech3-portfolio/tree/master/lab2-flexbox-grid)
+
+
+## Lab 4 | API
+  
+[Bekijk mijn opdracht op github](https://github.com/abuijzen/2imd-webtech3-portfolio/tree/master/lab4-APIs)
+<br>
+[Bekijk mijn opdracht op codepen](https://codepen.io/abuijzen/pen/RONRPV)
